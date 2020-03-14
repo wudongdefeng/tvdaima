@@ -69,11 +69,7 @@
           "name": "中国体育直播",
           "url": "http://www.zhibo.tv/index/index"
         },
-         {
-          "name": "飞速直播",
-          "url": https://m.feisuzhibo.com"
-        },
-        {
+                 {
           "name": "球趣直播",
           "url": "http://qiuquzhibo.com"
         },
