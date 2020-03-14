@@ -84,7 +84,12 @@
         {
           "name": "JRS直播",
           "url": "http://m.jrsnba.com"
-        },        {
+        },
+        {
+          "name": "飞速直播",
+          "url": "https://lltyzb.com/client/home"
+        },
+        {
           "name": "自定义",
           "url": "http://www.iyuji.cn/iyuji/s/MkJwenVHOEdBVE10L0ZqcmFibnBwZz09/1560953145493391"
         }
