@@ -18,14 +18,10 @@
                     "url": "http://m.mgtv.com"
                 },
                 {
-
-"name": "PPTV",
-
-"url": "https://m.pptv.com/"
-
-},
-
-{
+                    "name": "PPTV",
+                    "url": "https://m.pptv.com/"
+                },
+                {
           "name": "B站",
           "url": "https://www.bilibili.com/"
         },
