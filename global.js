@@ -6,311 +6,35 @@ window.vip=`
   
   宅鱼解析 https://jx.688ing.com/?search=
   
-  福云解析 https://vip.fucloud.xyz/?url=
-  
-  LDY解析 http://tv.ldak1.com/?v=
-  
-  小人物解 http://wtatom.top/jx/?url=
-  
-  掌上解析 http://www.zhangshangdy.cn/?v=
-  
-  十点影视 http://www.shidianyingshi.club/?url=
-  
-  WSY解析 http://jx.wsy666.site/?url=
-  
-  影视搜索 https://dagu.ml/s/?v=
-  
-  千叶万能 https://yi29f.cn/vip.php?url=
+  小亨 http://jx.cesms.cn/?url=
+
+  指南 http://yun.tvznn.cn/lines?url=
+
+  知网 http://jx.xyyh.xyz/?v=
+  无限 http://v.88tv.org/?v=
+  稳定 http://19g.top/?url=
+  万能 http://jx.cx77m1.cn/?url=
+  神马 https://jx.smbk.cc/?v=
+  牛牛 http://jx.yuanzhi668.cn/index.php?url=
+  妮可 http://jiexi.kingsnug.cn/tx.php?url=
+  咪咪 http://mimijiexi.top/?url=
+  六子 http://api.6uzi.com/?url=
+  快乐 http://vip.kltv19.xyz/yjx/?v=
+  酷搏 http://jx.x-99.cn/api.php?id=
+  花园 http://j.zz22x.com/jx/?url=
+  弘易阁 http://jx.hongyishuzhai.com/index.php?url=
+  干货 http://k8aa.com/jx/index.php?url=
+  福祥 http://jx.hao0606.com/?url=
+  第九 http://v.d9y.net/vip/?url=
+  呆萌 https://vip.1988ds.cn/?v=
+  冰豆 http://api.bingdou.net/api/?url=
+  背影 http://tv.beipy.com/jx/?url=
+  百域阁 http://api.baiyug.vip/index.php?url=
+  888 http://cdn.zyc888.top/?url=
+  5252 http://5.5252e.com/jx.php?url=
+  1988 https://vip.1988ds.cn/?v=
+  17云 http://17kyun.com/api.php?url=
 
-  新诺讯讯 https://www.nxflv.com/?url=
-  
-  爱酷看看 https://www.ikukk.com/?url=
-  
-  Onapi解 http://jx.onapi.xyz/?v=
-  
-  Beipy解 http://tv.beipy.com/jx/?url=
-  
-  大幕解析 http://jx.52damu.com/dmjx/jiexi.php?url=
-  
-  智能解析 http://jx.ph63.com/?url=
-  
-  H8解析 https://www.h8jx.com/jiexi.php?url=
-  
-  解析SS https://jx.jiexis.com/?url=
-  
-  逍遥解析 http://jx.ixiaoyao.top/?v=
-  
-  全民vip https://www.bavei.com/vip/?url=
-  
-  高清蓝光 https://py.ha12.xyz/sos/index.php?url=
-  
-  云解析析 https://api.m2048.com/index.php?url=
-  
-  小白解析 https://jx.ooopn.com/?v=
-  
-  100解析 http://j.wfss100.com/?url=
-  
-  思念解析 https://jx.xyatv.com/?url=
-  
-  百灵鸟解 https://jx.xyavi.com/?url=
-  
-  云端解析 https://jx.99yyw.com/99/?url=
-  
-  免费vip https://jiexi6.com/template/vfed/asset/fed/player.php?id=peer&url=
-  
-  TY解析T http://aty.pw/jx.php?id=1&url=
-  
-  云解析析 http://api.2yuanvip.com/ddd.php?url=
-  
-  醉仙解析 http://api.52sjmz.cn/index.php?url=
-  
-  mimi解T http://mimijiexi.top/?url=
-  
-  北风解析 http://www.v.cumtb.store/?url=
-  
-  艾克解析 http://v.xfj.me/?v=
-  
-  大亨影院 http://tv.oopw.top/v.php?url=
-  
-  高清线路 http://5gvip.vicp.hk/jx/?url=
-  
-  逗二哈解 http://5gvip.vicp.hk/jx1/?url=
-  
-  优品街解 https://api.upjie.com/vip/?url=
-  
-  世界资源 http://jx.shijiezyw.com/?v=
-  
-  老马解析 https://jx.lmxxxz.com/?url=
-  
-  宝思智能 http://demo.baores.com/?url=
-  
-  2A解析T https://www.2ajx.com/vip.php?url=
-  
-  小爽解析 http://www.hasoe.cn/?v=
-  
-  40解析T https://jx40.net/url=
-  
-  云网解析 http://www.41478.net/?url=
-  
-  YKM智能 https://ys.ykmbbs.top/?v=
-  
-  呆萌小黑 https://vip.1988ds.cn/?v=
-  
-  三汇解析 http://vip.sanhuiguoji.com/?url=
-  
-  云上解析 https://api.ysdyz.com/?url=
-  
-  百译解析 http://www.wabaiyi.com/vip/?url=
-  
-  快乐TVT http://vip.kltv19.xyz/yjx/?v=
-  
-  听乐解析 http://api.dj6u.com/jx.php?url=
-  
-  秒播解析 http://jx.yuanzhi668.cn/?url=
-  
-  豪华啦解 http://api.lhh.la/vip/?url=
-
-  站长窝解 http://jx.5ywl.cn/?v=
-  
-  二度永久 http://jx.drgxj.com/?url=
-  
-  K8AA解T http://k8aa.com/jx/index.php?url=
-  
-  挚爱解析 http://www.10yy.com.cn/?url=
-  
-  无广告解 https://test.78sy.cn/?url=
-  
-  78解析T https://api.78sy.cn/?url=
-  
-  VIP全网 https://yi29f.cn/vip.php?url=
-  
-  竟辉影院 http://api.cdjhxxjs.com/?v=
-  
-  百度云解 http://jsap.attakids.com/?url=
-  
-  1907影T https://z1.m1907.cn/?jx=
- 
-  能猫解析 http://occ.xm08.cn/?url=
-  
-  TVTV看 http://jx.tvtvkan.com/?v=
-  
-  塔克解析 https://mfjx.z8mov.top/?url=
-  
-  私人思品 http://jx.xice.xyz/?v=
-  
-  搜搜库1 http://www.guandianzhiku.com/v/s/?url=
-
-  石头云解 http://jiexi.071811.cc/jx.php?url=
-  
-  酷博解析 http://jx.x-99.cn/api.php?id=
-  
-  V8智能解 http://jx.sujx.top/jiexi.php?url=
-
-  玩得嗨解 http://tv.wandhi.com/go.html?url=
-
-  1ff1解T http://jx.1ff1.cn/?url=
-
-  17K云解 http://17kyun.com/api.php?url=
-
-  XIAO8智 https://jiexi.8htv.cn/meyaer.php?url=
-  
-  59解析T http://59uv.com/?url=
-  
-  28抢先看 https://jx.huodongz.com/?url=
-
-  白菜解析 http://myqq113.tx115.5644.pw/jiexi/?url=
-  
-  通用解析 http://jx.aeidu.cn/index.php?url=
-  
-  98a解析 http://jx.98a.ink/?url=
-  
-  69万能解 http://api.69ne.com/?url=
-  
-  爱快播云 http://www.aqvod.cn/?url=
-  
-  绿芽解析 https://vip.lvyajx.com/?url=
-
-  2020解 https://api.2020jx.com/?url=
-
-  调试解析 https://vip.mpos.ren/v/?url=
-  
-  小黑解析 https://vip.1988ds.cn/?v=
-
-  云渡解析 http://yy.6tc.top/jx/?url=
-
-  黑米解析 https://www.heimijx.com/jx/api/?url=
-
-  55解析T http://55jx.top/?url=
-
-  517解析 http://cn.bjbanshan.cn/jx.php?url=
-
-  爸比解析 http://www.33tn.cn/?url=
-
-  星空解析 https://jx.fo97.cn/?url=
-
-  660e解 https://660e.com/?url=
-
-  小千解析 http://www.nide123.cn/vip/?v=
-
-  狂野解析 https://api.653520.top/vip/?url=
-
-  冰豆解析 http://api.bingdou.net/?url=
-
-  金桥解析 http://jqaaa.com/jx.php?url=
-
-  船长解析 http://czjx8.com/?url=
-
-  19解析析 http://19g.top/?url=
-
-  OK解析T http://okjx.cc/?url=
-
-  618G解 https://jx.618g.com/?url=
-
-  瑞特解析 http://jx.0421v.pw/index.php?url=
-
-  蓝科迪解 http://api.lkdmkj.com/jx/jx00/index.php?url=
-
-  搜搜库解 http://jx.sosoku.cn/jx/?url=
-
-  未知解析 https://vip.jlsprh.com/?url=
-
-  bofan解 http://bofang.online/?url=
-
-  play1解 http://play1.online/?url=
- 
-  ckpla解 http://ckplay.online/?url=
-
-  5208解 http://52088.online/?url=
-
-  69p解析 http://69p.top/?url=
-
-  猪蹄无广 http://jx.iztyy.com/svip/?url=
-
-  猪蹄无广1 https://jx.iztyy.com/svip/?url=
-
-  蚂蚁智能 http://jx.v5ant.com/?v=
-  
-  test解 http://www.now10.top/?url=
-
-  百度API http://app.baiduoos.cn:2019/vip/?url=
-
-  易云解析 http://v.ioto.vip/?v=
-
-  Play99 http://www.play99.top/?url=
-
-  天天解析 http://jx.mba98.com/?url=
-
-  音萌云T https://api.v6.chat/?url=
-
-  解析视频 http://jx.xzsdwl.cn/?url=
-
-  4080解 http://www.4080.xyz/jx/?url=
-
-  花园影视 http://j.zz22x.com/jx/?url=
-
-  大白影视 http://jx.myzch.cn/jx/?v=
-
-  97解析T https://vip.97kys.com/vip/?url=
-
-  菜鸟解析 https://jiexi.bm6ig.cn/?url=
-
-  爱解析析 http://jx.wfxzzx.cn/?url=
-
-  全网无广 https://jx.yswy.top/?url=
-
-  诺讯解1 http://www.ckmov.com/?url=
-
-  诺讯解② https://www.ckmov.com/?url=
-
-  梦城解析 http://api.mcncn.cn/?url=
-
-  我爱解析 http://vip.52jiexi.top/?COLLCC=2964076775&COLLCC=865063344&url=
-
-  52a解析 http://jx.52a.ink/?url=
-
-  jsr解析 http://jx.isryun.com/?v=
-
-  无名解析 http://69p.top/?url=
-
-  千树解析 http://jx.lengmouwl.xyz/?url=
-
-  8B解析T http://api.8bjx.cn/?url=
-
-  ferr云 http://www.freeget.org/jx.php?url=
-
-  初颜解析 http://jx.wodym.cn/?url=
-
-  Hk解析T http://jx.rdhk.net/?v=
-
-  爱解析析 http://jx.wfxzzx.cn/?url=
-
-  AT520解 http://at520.cn/jx/?url=
-
-  360dy解 http://yun.360dy.wang/jx.php?url=
-
-  清风明月 http://fateg.xyz/?url=
-
-  771解析 https://vip.qi71.cn/jiexi.php?url=
- 
-  黑云解析 http://jx.daheiyun.com/?url=
-
-  tv920解 https://api.tv920.com/vip/?url=
-
-  逆天解析 http://nitian9.com/?url=
-
-  购买的解 http://jx.vipshares.xyz/index1.php?url=
-  
-  羊分享解 http://buchi.me/?v=
-
-  超清干货 http://k8aa.com/jx/index.php?url=
-
-  弦易阁解 http://jx.hongyishuzhai.com/index.php?url=
-
-  飞鸟云播 http://jx.ledboke.com/?url=
-
-  WoCao解 https://www.wocao.xyz/index.php?url=
-
-  凉城解析 http://jx.mw0.cc/?url=
 
 `;
 //window.vip=window.VIP_URLS;
