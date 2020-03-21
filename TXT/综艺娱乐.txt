@@ -1,0 +1,12 @@
+﻿斗鱼runingman,http://tx2play1.douyucdn.cn/live/131977rqtTiLQh1o_4000.xs?uuid=
+虎牙runningman,https://aldirect.hls.huya.com/backsrc/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1_4000.m3u8
+虎牙卡式台,http://aldirect.hls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1.m3u8
+虎牙爆谷中文,http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_4000.m3u8
+虎牙电影,http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_2000.m3u8
+虎牙小品,https://aldirect.hls.huya.com/huyalive/29169025-2686220848-11537230691993387008-2847687614-10057-A-0-1_1200.m3u8
+国外MTV,https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
+Bestv live,http://112.17.40.145/PLTV/88888888/224/3221226596/index.m3u8
+日本WOWOW MOVIES,http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+JP24小时新闻,http://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+香港电影频道,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+高清时装台WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
