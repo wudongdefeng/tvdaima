@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+
+	<head>
+		<title>从源聚合器 (Google Chrome Extension)导出新闻源</title>
+	</head>
+
+	<body>
+		<outline text="tu" title="tu">
+			<outline type="rss" text="
+👾✨Rio✨👾 (@rio_lv_vly) • Instagram photos and videos
+" title="
+👾✨Rio✨👾 (@rio_lv_vly) • Instagram photos and videos
+" xmlUrl="https://rss.app/feeds/DOZzaTEq93KatymX.xml"/>
+			<outline type="rss" text="トリンドル玲奈 / Reina Triendl (@toritori0123) • Instagram photos and videos" title="トリンドル玲奈 / Reina Triendl (@toritori0123) • Instagram photos and videos" xmlUrl="https://rss.app/feeds/hPUJ44EWZIDXbzjB.xml"/>
+			<outline type="rss" text="蒼井そら(SOLA AOI) (@aoi_sola) | Twitter" title="蒼井そら(SOLA AOI) (@aoi_sola) | Twitter" xmlUrl="https://rss.app/feeds/EACeagCQ6VzC7C71.xml"/>
+			<outline type="rss" text="
+明日花キララ (@asukakiraran) • Instagram photos and videos
+" title="
+明日花キララ (@asukakiraran) • Instagram photos and videos
+" xmlUrl="https://rss.app/feeds/9h9Ug5xEDJAYHhdK.xml"/>
+		</outline>
+		<outline text="Feeds" title="Feeds">
+			<outline type="rss" text="Rss订阅源" title="Rss订阅源" xmlUrl="http://link.rss.wiki/wechat/tgchannel/rsswiki?filter_author=%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB"/>
+			<outline type="rss" text="RSSHub 有新路由啦" title="RSSHub 有新路由啦" xmlUrl="https://rsshub.ioiox.com/rsshub/rss"/>
+		</outline>
+		<outline text="公众号" title="公众号">
+			<outline type="rss" text="微信公众号 - 虎嗅网" title="微信公众号 - 虎嗅网" xmlUrl="https://rsshub.app/wechat/csm/huxiu_com"/>
+			<outline type="rss" text="微信公众号 - 参考消息" title="微信公众号 - 参考消息" xmlUrl="https://rsshub.ioiox.com/wechat/csm/ckxxwx"/>
+			<outline type="rss" text="微信公众号 - 观察者网" title="微信公众号 - 观察者网" xmlUrl="https://rsshub.ioiox.com/wechat/csm/guanchacn"/>
+			<outline type="rss" text="微信公众号 - 人民日报" title="微信公众号 - 人民日报" xmlUrl="https://rsshub.ioiox.com/wechat/csm/rmrbwx"/>
+			<outline type="rss" text="微信公众号 - 央视新闻" title="微信公众号 - 央视新闻" xmlUrl="https://rsshub.ioiox.com/wechat/csm/cctvnewscenter"/>
+			<outline type="rss" text="微信公众号 - 少数派" title="微信公众号 - 少数派" xmlUrl="https://rsshub.ioiox.com/wechat/csm/sspaime"/>
+			<outline type="rss" text="微信公众号 - 环球时报" title="微信公众号 - 环球时报" xmlUrl="https://rsshub.ioiox.com/wechat/csm/hqsbwx"/>
+		</outline>
+	</body>
+</opml>
