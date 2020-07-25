@@ -1,6 +1,4 @@
 #网络订阅txt源,来自分享
 7月1,https://pastebin.com/raw/ybSuEMjs
 7月2,https://myernestlu.github.io/zby.txt
-7月20,https://gitee.com/yunbaba/live_source/raw/master/%E5%B9%BF%E7%94%B5%E8%B0%B7%E8%B1%86.txt
-7月25,https://gitee.com/chuner821/zhibo/raw/master/list.txt
 #
