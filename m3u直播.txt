@@ -10,3 +10,5 @@
 7月25tv,https://raw.staticdn.net/mandyIMS/mandyims.github.io/e3fe0648f19d1c1d7a922033349107cdac7c2128/tv.m3u
 7月25mandytv,https://raw.staticdn.net/wudongdefeng/daima/master/mandytv.m3u
 7月1,https://raw.staticdn.net/wudongdefeng/daima/master/7%E6%9C%881.txt
+央视频1,https://raw.staticdn.net/FanchangWang/iptv/master/china_mobile.m3u
+央视频2,https://gitee.com/guyuexuan/iptv/raw/master/ysp.m3u
