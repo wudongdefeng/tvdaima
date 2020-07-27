@@ -1,4 +1,7 @@
 #网络订阅txt源,来自分享
 7月1,https://gitee.com/qiusunshine233/hikerView/raw/master/tv/20200416/2.txt
 7月2,https://myernestlu.github.io/zby.txt
+0528,https://raw.staticdn.net/wudongdefeng/tvdaima/master/0528.txt
+海外,https://raw.staticdn.net/wudongdefeng/tvdaima/master/haiwai.txt
+轮播,https://raw.staticdn.net/wudongdefeng/tvdaima/master/轮播.txt
 #
