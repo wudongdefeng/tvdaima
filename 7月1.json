@@ -1,0 +1,16 @@
+{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000272103.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225937/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8#4",
+            "num": "00001",
+            "urllist": "http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid0000",
+            "name": "#EXTINF:-1"
+        }
+    ]
+}
