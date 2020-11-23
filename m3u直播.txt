@@ -6,5 +6,7 @@
 7月25mandytv,mandytv.m3u
 央视频1,china_mobile.m3u
 央视频2,ysp.m3u
-8月8,iptv.m3u
+iptv,iptv.m3u
+HDTV,HDTV.m3u
+联通,IPTV-Unicom.m3u
 #
