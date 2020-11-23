@@ -5,5 +5,5 @@
 央视频1,china_mobile.m3u
 iptv,iptv.m3u
 HDTV,HDTV.m3u
-联通,IPTV-Unicom.m3u
+overseas,%E5%87%A4%E5%87%B0%E5%9B%BD%E5%A4%96.m3u
 #
