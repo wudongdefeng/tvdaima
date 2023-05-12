@@ -5,7 +5,7 @@ CCTV_7HD,http://39.134.63.11:6610/PLTV/88888888/224/3221225733/index.m3u8?i
 CCTV_8HD,http://39.134.63.11:6610/PLTV/88888888/224/3221226008/index.m3u8?i
 CCTV_怀旧剧场,http://111.48.34.237/PLTV/88888888/224/3221230091/1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰资讯,http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
+凤凰资,http://dispatch.fengshows.cn:8383/live/0201pinhd.flv?txSecret=bed1a1f9cba0025e13bd90660b912a3d&txTime=645dcefc#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
 凤凰中文,http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 湖北卫视HD,http://39.134.65.249/PLTV/88888888/224/3221225975/1.m3u8
 湖北综合,http://111.48.34.237/PLTV/88888888/224/3221229806/1.m3u8
