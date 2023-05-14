@@ -4,8 +4,9 @@ CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122619
 CCTV_7HD,http://39.134.63.11:6610/PLTV/88888888/224/3221225733/index.m3u8?i
 CCTV_8HD,http://39.134.63.11:6610/PLTV/88888888/224/3221226008/index.m3u8?i
 CCTV_怀旧剧场,http://111.48.34.237/PLTV/88888888/224/3221230091/1.m3u8
-凤凰资讯,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=2
-凤凰中文,http://38.55.196.41/iptvplus.php?key=7988ed3866880bd98a69fbf4f4e4aa41&id=1
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 湖北卫视HD,http://39.134.65.249/PLTV/88888888/224/3221225975/1.m3u8
 湖北综合,http://111.48.34.237/PLTV/88888888/224/3221229806/1.m3u8
 湖北经视,http://111.48.34.237/PLTV/88888888/224/3221229804/1.m3u8
