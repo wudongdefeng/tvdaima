@@ -1,6 +1,6 @@
-CCTV_1HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226635/1.m3u8
+CCTV-1    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV_2HD,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-CCTV_4HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
+CCTV_4HD,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV_7HD,http://111.48.34.237/PLTV/88888888/224/3221229895/1.m3u8
 CCTV_8HD,http://111.48.34.237/PLTV/88888888/224/3221230169/1.m3u8
 CCTV_怀旧剧场,http://111.48.34.237/PLTV/88888888/224/3221230091/1.m3u8
@@ -33,7 +33,7 @@ CCTV_怀旧剧场,http://111.48.34.237/PLTV/88888888/224/3221230091/1.m3u8
 江西卫视HD,http://111.48.34.237/PLTV/88888888/224/3221229752/1.m3u8
 重庆卫视HD,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226680/1.m3u8
 四川卫视HD,http://111.48.34.237/PLTV/88888888/224/3221230140/1.m3u8
-广西卫视HD,https://rtmp.gdlive.gdmain.com/live/loz1kbo5.m3u8
+广西卫视HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 云南卫视HD,http://39.134.61.218/PLTV/88888888/224/3221226634/1.m3u8
 河南卫视HD,http://111.48.34.237/PLTV/88888888/224/3221229870/1.m3u8
 陕西卫视HD,http://cyz32.livehbindex.hbcatv.cn/live/5000002019984c0fa29ae0d57380da3a.m3u8?bitrate=2300&pt=5
