@@ -85,7 +85,7 @@ CCTV_怀旧剧场,http://111.48.34.237/PLTV/88888888/224/3221230091/1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://106.52.110.94:5678/sxg.php?id=test1_4000
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰香港,http://113.117.74.28:8081/hls/38/index.m3u8
+凤凰香港,http://113.117.74.29:8081/hls/38/index.m3u8#http://113.117.74.28:8081/hls/38/index.m3u8
 凤凰香港,http://jylt.jdshipin.com:808/hls/81/index.m3u8
 凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
 凤凰香港,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
