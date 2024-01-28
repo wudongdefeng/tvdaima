@@ -6,8 +6,10 @@ CCTV_7HD,http://111.48.34.237/PLTV/88888888/224/3221229895/1.m3u8
 CCTV_8HD,http://111.48.34.237/PLTV/88888888/224/3221230169/1.m3u8
 CCTV_怀旧剧场,http://111.48.34.237/PLTV/88888888/224/3221230091/1.m3u8
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
-凤凰中文,https://www.123iptv.tv/tv_player/ckplayer.php?url=https://edge2.laotv.la/live/PhxChinese/index.m3u8
-凤凰中文,https://epg.pw/stream/15ed3bc8cdc099b666c85c694e7ef54dee3593c1ee660d69b69b4ef335bd389b.m3u8
+[2409:8087:7000:20::13]/wh7f454c46tw3203572714_1639864156/dbiptv.sn.chinamobile.com/P
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰中文 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰资讯,https://epg.pw/stream/687ae839a0d84d1c2d3098229e376c4d4cf1cb2dfc1ab28fba4195d27bc6f589.ctv#https://epg.pw/stream/8851635eb172655bf52b54a66e5a3472e42e2d8f11bc3e76c8f2729adf5f40b5.m3u8#https://epg.pw/stream/bafba85af08bd32cbf83cc4ea850e6097db38421eb7783d8ed331e4d26dba0f9.m3u8#https://epg.pw/stream/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.ctv#http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 湖北卫视HD,http://111.48.34.237/PLTV/88888888/224/3221229812/1.m3u8
