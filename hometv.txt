@@ -1,10 +1,10 @@
-CCTV1,http://36.40.236.13:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV_2HD,http://101.66.198.30:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV_4HD,http://36.40.236.13:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV_7HD,http://101.66.198.60:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV_8HD,http://101.66.198.60:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
+CCTV_2HD,http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV_4HD,http://39.164.180.36:19901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV_7HD,http://39.164.180.36:19901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV_8HD,http://39.164.180.36:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV_怀旧剧场,http://111.48.34.237/PLTV/88888888/224/3221230091/1.m3u8
-湖北卫视HD,http://61.136.67.238:50085/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视HD,http://39.164.180.36:19901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北综合,http://119.36.148.115:59901/tsfile/live/1005_1.m3u8
 武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
