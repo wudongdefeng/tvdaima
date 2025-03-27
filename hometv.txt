@@ -11,7 +11,7 @@ CCTV_8HD,http://39.164.180.36:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=
 江苏卫视HD,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e740c7&tk=822270345d4c#.m3u8
 浙江卫视HD,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 东方卫视HD,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2fbf64&tk=822270345d4c#.m3u8
-广东卫视HD,http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视HD,http://39.164.160.249:9901/tsfile/live/0125_1.m3u8#isVideo=true#
 北京卫视HD,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6c2779&tk=822270345d4c#.m3u8
 山东卫视HD,http://39.164.180.36:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0#isVideo=true#
 黑龙江卫视HD,http://39.164.180.36:19901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0#isVideo=true#
