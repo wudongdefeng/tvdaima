@@ -3,7 +3,7 @@ CCTV_2HD,http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=
 CCTV_4HD,http://39.164.180.36:19901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV_7HD,http://39.164.180.36:19901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV_8HD,http://39.164.180.36:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-凤凰卫视,http://120.198.101.106:9901/tsfile/live/1062_1.m3u8?key=txiptv#isVideo=true#
+凤凰卫视,http://120.198.101.106:9901/tsfile/live/1062_1.m3u8?key=txiptv
 湖北卫视HD,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ab913b&tk=822270345d4c#.m3u8
 湖北综合,http://119.36.148.115:59901/tsfile/live/1005_1.m3u8
 武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
@@ -11,11 +11,11 @@ CCTV_8HD,http://39.164.180.36:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=
 江苏卫视HD,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e740c7&tk=822270345d4c#.m3u8
 浙江卫视HD,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 东方卫视HD,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2fbf64&tk=822270345d4c#.m3u8
-广东卫视HD,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0#isVideo=true##
+广东卫视HD,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视HD,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6c2779&tk=822270345d4c#.m3u8
-山东卫视HD,http://39.164.180.36:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0#isVideo=true#
-黑龙江卫视HD,http://39.164.180.36:19901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0#isVideo=true#
-河北卫视HD,http://60.172.130.146:352/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0#isVideo=true##
+山东卫视HD,http://39.164.180.36:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视HD,http://39.164.180.36:19901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视HD,http://60.172.130.146:352/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视HD,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b3eefa&tk=822270345d4c#.m3u8
 辽宁卫视HD,http://222.173.108.238:352/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视HD,http://120.76.248.139/live/bfgd/4200000483.m3u8
