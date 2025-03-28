@@ -3,6 +3,10 @@ CCTV2,https://live-play.cctvnews.cctv.com/cctv/merge_cctv2_mbd.m3u8?auth_key=174
 CCTV_4HD,https://live-play.cctvnews.cctv.com/cctv/merge_cctv4_mbd.m3u8?auth_key=1743225571-0-d95b4b4218fe4924aac0487b984e765f-a89780baa9be7715bd784d704e1a82ea
 CCTV_7HD,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 CCTV_8HD,http://39.164.180.36:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北综合,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226628/1.m3u8
+湖北陇上,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226631/1.m3u8
+湖北经视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226639/1.m3u8
+湖北公共,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226626/1.m3u8
 凤凰卫视,http://120.198.101.106:9901/tsfile/live/1062_1.m3u8?key=txiptv
 湖北卫视HD,http://39.134.65.200/PLTV/88888888/224/3221225569/1.m3u8
 武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
