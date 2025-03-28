@@ -16,7 +16,7 @@ CCTV_8HD,http://39.164.180.36:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=
 广东卫视HD,http://39.134.65.213/PLTV/88888888/224/3221225966/1.m3u8
 北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1743173150&sign=525c31157200ea8df81888aadf5b7478
 山东卫视HD,http://39.164.180.36:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视HD,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226724/1.m3u8
+黑龙江卫视HD,http://120.238.94.82:9901/tsfile/live/1075_1.m3u8#http://223.241.247.214:9901/tsfile/live/0143_1.m3u8#http://1.180.2.93:9901/tsfile/live/0143_1.m3u8
 河北卫视HD,http://60.172.130.146:352/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视HD,http://222.169.85.8:9901/tsfile/live/0130_1.m3u8
 辽宁卫视HD,http://39.134.67.110/PLTV/88888888/224/3221226089/1.m3u8
