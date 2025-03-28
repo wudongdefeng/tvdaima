@@ -1,6 +1,6 @@
-CCTV1,http://39.134.65.209/PLTV/88888888/224/3221225816/1.m3u8
+CCTV1,http://39.134.65.209/PLTV/88888888/224/3221225816/1.m3u8#http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226691/1.m3u8
 CCTV2,https://live-play.cctvnews.cctv.com/cctv/merge_cctv2_mbd.m3u8?auth_key=1743224728-0-d95b4b4218fe4924aac0487b984e765f-067cd52d6bdbcfe57ace997d1ca2d7dd
-CCTV_4HD,https://live-play.cctvnews.cctv.com/cctv/merge_cctv4_mbd.m3u8?auth_key=1743225571-0-d95b4b4218fe4924aac0487b984e765f-a89780baa9be7715bd784d704e1a82ea
+CCTV_4HD,https://live-play.cctvnews.cctv.com/cctv/merge_cctv4_mbd.m3u8?auth_key=1743225571-0-d95b4b4218fe4924aac0487b984e765f-a89780baa9be7715bd784d704e1a82ea#http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226683/1.m3u8
 CCTV_7HD,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 CCTV_8HD,http://39.164.180.36:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北综合,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226628/1.m3u8
@@ -16,7 +16,7 @@ CCTV_8HD,http://39.164.180.36:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=
 广东卫视HD,http://39.134.65.213/PLTV/88888888/224/3221225966/1.m3u8
 北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1743173150&sign=525c31157200ea8df81888aadf5b7478
 山东卫视HD,http://39.164.180.36:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视HD,http://58.58.111.222:808/hls/30/index.m3u8
+黑龙江卫视HD,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226724/1.m3u8
 河北卫视HD,http://60.172.130.146:352/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视HD,http://222.169.85.8:9901/tsfile/live/0130_1.m3u8
 辽宁卫视HD,http://39.134.67.110/PLTV/88888888/224/3221226089/1.m3u8
