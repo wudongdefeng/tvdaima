@@ -5,7 +5,7 @@ CCTV_7HD,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u
 CCTV_8HD,http://39.164.180.36:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 凤凰卫视,http://120.198.101.106:9901/tsfile/live/1062_1.m3u8?key=txiptv
 湖北卫视HD,http://39.134.65.200/PLTV/88888888/224/3221225569/1.m3u8
-湖北综合,http://119.36.148.115:59901/tsfile/live/1005_1.m3u8#https://live21-cjy.hbtv.com.cn/new-hbtv/new-hbzh.m3u8?auth_key=1743177731-d12052f00be911f0a12055d127f800f9-0-13df877b09be5941312949747b97dd33&extrakey=VfSvEXkdyQdsIN5ncuZo14B0XsqGev1EIH1KzgKdZPmsr61wuQ5jJSfHt9jc0SiwS5BkTGVkJnCnQ05HxVYtdIXPWNtwS_iset2jLBpxYZI&aalook=f55c1b0abbfffa30
+湖北综合,https://live21-cjy.hbtv.com.cn/new-hbtv/new-hbzh.m3u8?auth_key=1743177731-d12052f00be911f0a12055d127f800f9-0-13df877b09be5941312949747b97dd33&extrakey=VfSvEXkdyQdsIN5ncuZo14B0XsqGev1EIH1KzgKdZPmsr61wuQ5jJSfHt9jc0SiwS5BkTGVkJnCnQ05HxVYtdIXPWNtwS_iset2jLBpxYZI&aalook=f55c1b0abbfffa30
 湖北经视,https://live21-cjy.hbtv.com.cn/new-hbtv/new-hbjs.m3u8?auth_key=1743177666-aa9114400be911f08467719d5eb68914-0-214a6c89e45988f4e1e900026851b5c5&extrakey=9GIF7QKL9UTVWqTUB6b49bmBrNw2kfAePqL2XcuBpHIXnKsFEsBEXBVf0FJI6D7NB023d_vGCQGqu1y5MUUcoy4Ly5oXuTYc2viVCg2aU8A&aalook=f12d6e4be764e61b
 武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 湖北陇上,https://live21-cjy.hbtv.com.cn/new-hbtv/new-hbls.m3u8?auth_key=1743177598-8208ffc00be911f0b4a4dfa0da15ec2f-0-d268bb801e77efd8718fe479a2913e83&extrakey=1OhKopHX1QOi6kPko42xevNwmqCUXQyCdh-H01twWfQ7_3DzyyK7wgQHD3xRCFB5WBfgzY0nkSXlQ30Mezr8Xzap_TYqRD1hUHKxO7ph-YA&aalook=91173c8ca6100be0
