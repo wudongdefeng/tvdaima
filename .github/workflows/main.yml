@@ -10,14 +10,11 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.10'
     - name: init
       run: |                
         curl -o v20240206.zip https://github.com/vircloud/TVLogo/archive/refs/tags/v20240206.zip
         sudo apt install unzip
+        unzip v20240206.zip
         cp -ur ./v20240206/TVLogo-20240206/*.png ./tvlogo-2024/
         rm -rm *v20240206*
     - name: Git init
