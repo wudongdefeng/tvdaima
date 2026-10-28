@@ -3,24 +3,34 @@ name: init
 on:
   workflow_dispatch:
   push:
-  
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-    - name: init
-      run: |                
-        curl -o v20240206.zip https://github.com/vircloud/TVLogo/archive/refs/tags/v20240206.zip
-        sudo apt install unzip
-        unzip v20240206.zip
-        cp -ur ./v20240206/TVLogo-20240206/*.png ./tvlogo-2024/
-        rm -rm *v20240206*
-    - name: Git init
+    - uses: actions/checkout@v4
+
+    - name: Download and Extract
+      run: |
+        curl -L -o v20240206.zip \
+          https://github.com/vircloud/TVLogo/archive/refs/tags/v20240206.zip
+
+        unzip -q v20240206.zip
+
+        ls -la
+
+        find . -name "*.png"
+
+        cp -ur TVLogo-v20240206/*.png ./tvlogo-2024/ || true
+
+    - name: Commit
       run: |
         git config --global user.name "Actions"
         git config --global user.email "actions@github.com"
+
         git add .
-        git commit -m "init" -a || echo "Nothing to update"
+
+        git commit -m "init" || echo "Nothing to update"
+
         git push
