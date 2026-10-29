@@ -13,16 +13,7 @@ jobs:
 
     - name: Download and Extract
       run: |
-        curl -L -o v20240206.zip \
-          https://github.com/vircloud/TVLogo/archive/refs/tags/v20240206.zip
-
-        unzip -q v20240206.zip
-
-        ls -la
-
-        find . -name "*.png"
-
-        cp -ur TVLogo-v20240206/*.png ./tvlogo-2024/ || true
+        rm -rf tvlogo-2024/*
 
     - name: Commit
       run: |
